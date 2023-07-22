@@ -5,7 +5,7 @@ body{
 
 /* left/top side */
 header{
-    background: url(/img/lion.jpg);
+    background: url(/img/lion.jpeg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -34,7 +34,7 @@ h1{
     font-weight: 700;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
-    border-top:4px solid rgb(156, 156, 177);
+    border-top:4px solid rgb(237, 237, 247);
     padding:0.5em 0.7em;
     order:-1;
 }
